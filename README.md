@@ -1,5 +1,5 @@
 # flowable-article-review-service
-Article review service implemented using Flowable.
+Article review service implemented using Flowable BPMN.
 <img width="169" height="230" alt="image" src="https://github.com/user-attachments/assets/f8fdf7fd-1993-44bd-97b3-2849b9d752e4" />
 
 Submit Article
